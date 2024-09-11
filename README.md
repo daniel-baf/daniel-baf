@@ -1,43 +1,146 @@
-<h1 align="center">Hi 👋, I'm Daniel Bautista</h1>
-<h3 align="center">Systems engineering student, interested in games and programming.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-baf&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-baf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-baf" alt="daniel-baf" /></a> </p>
-
-- 🔭 I’m currently studying at URL Central **Cursando el 4 año de la carrera**
-
-- 🌱 I’m currently learning **Node.js frameworks**
-
-- 👯 I’m looking to collaborate on **any project that helps me improve my professional career**
-
-- 🤝 I’m looking for help with **[CURRENTLY LOOKING FOR A JOB]**
-
-- 👨‍💻 All of my projects are available at [https://github.com/daniel-baf?tab=repositories](https://github.com/daniel-baf?tab=repositories)
-
-- 📝 I regularly write articles on [https://programacioncondaniel.blogspot.com/](https://programacioncondaniel.blogspot.com/)
-
-- 💬 Ask me about **java, bulma - bootstrap, compilers...**
-
-- 📫 How to reach me **danibaufu@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFhu9HpQvM/lIc0Mpy79qcrqrKt2yDiOQ/view?utm_content=DAFhu9HpQvM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFhu9HpQvM/lIc0Mpy79qcrqrKt2yDiOQ/view?utm_content=DAFhu9HpQvM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-- ⚡ Fun fact **A piece of soap got into my ear and didn't hear like 1 week**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniel-bautista-46bb69267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-bautista-46bb69267" height="30" width="40" /></a>
-  <a href="https://twitter.com/daniel_bafue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniel_bafue" height="30" width="40" /></a>
-<a href="https://instagram.com/daniel_bafue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_bafue" height="30" width="40" /></a>
-<a href="https://discord.gg/tVm7gp8zW9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tVm7gp8zW9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0D0D0D:00FFD1:0D0D0D&height=180&section=header&text=&fontSize=0" alt="Header wave" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Daniel+Bautista+%F0%9F%91%8B" alt="Name typing" />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-baf&show_icons=true&locale=en&layout=compact" alt="daniel-baf" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=18&duration=3000&pause=700&color=7CFC00&center=true&vCenter=true&width=600&lines=Backend+Developer;Cloud+Infrastructure+Engineer;Systems+Engineering+Student;Open+to+Freelance" alt="Role typing" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-baf&show_icons=true&locale=en" alt="daniel-baf" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniel-baf&label=Profile+Views&color=00FFD1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Guatemala-00FFD1?style=flat-square&logo=googlemaps&logoColor=0D0D0D" alt="Location" />
+  <img src="https://img.shields.io/badge/Work-Vantumst-7CFC00?style=flat-square&logo=github&logoColor=0D0D0D" alt="Work" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00FFD1?style=flat-square&logo=upwork&logoColor=0D0D0D" alt="Status" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-baf&" alt="daniel-baf" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daniel-baf&theme=matrix&margin-w=10&margin-h=10&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+```bash
+> whoami
+Daniel Bautista — Backend & Cloud Infrastructure
+
+> current_status
+Systems Engineering student (5th year) @ URL
+
+> work
+Part-time Backend Developer @ Vantumst
+
+> focus
+APIs • Cloud (GCP) • CI/CD • Docker • Linux
+
+> availability
+Open to freelance projects & collaborations
+```
+
+---
+
+## 🎯 Now
+
+- Building scalable backend modules and service integrations
+- Optimizing CI/CD pipelines and deployment workflows
+- Deepening software architecture and cloud best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+</p>
+
+### Frameworks & Runtimes
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+  <a href="https://bulma.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma" /></a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" /></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-baf&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=7CFC00&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-baf&theme=dark&hide_border=true&background=0D0D0D&ring=00FFD1&fire=7CFC00&currStreakNum=FFFFFF&sideNum=FFFFFF&currStreakLabel=00FFD1&sideLabel=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-baf&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=FFFFFF" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-baf&theme=github_dark" alt="Profile details" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daniel-baf/daniel-baf/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
+## 📡 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-baf&theme=react-dark&line=00FFD1&point=7CFC00&area=true&hide_border=true&bg_color=0D0D0D" alt="Activity graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:danibaufu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danibaufu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/daniel-bautista-46bb69267" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/daniel_bafue" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-@daniel__bafue-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/daniel-baf" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-daniel--baf-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0D0D0D:00FFD1:0D0D0D&height=120&section=footer&text=&fontSize=0" alt="Footer wave" />
+</p>
